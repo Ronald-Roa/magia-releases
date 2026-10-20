@@ -1,8 +1,8 @@
 {
-  "apk_latest_version": 43424,
-  "apk_version_name": "4.34.24",
-  "apk_sha256": "5ea0326b016d7df70ab6364aaf1716c0a795c030c9fa5ad966d6b90176ffab41",
+  "apk_latest_version": 43425,
+  "apk_version_name": "4.34.25",
+  "apk_sha256": "1be45db2b00754c24b18214d62f2a09a946f9c3b0e0f456d36551da2f1c2e2eb",
   "apk_size_bytes": 35474112,
-  "apk_changelog": "Corrección del aviso de actualización con sesión guardada; inicio rápido conservado.",
-  "apk_apk_url": "https://github.com/Ronald-Roa/magia-releases/releases/download/magia-apk-v4.34.24/Magia.apk"
+  "apk_changelog": "Corrige EB1 al abrir Top 10 y Estrenos; tarjetas mixtas y reproducción VOD normalizadas.",
+  "apk_apk_url": "https://github.com/Ronald-Roa/magia-releases/releases/download/magia-apk-v4.34.25/Magia.apk"
 }
