@@ -1,8 +1,8 @@
 {
-  "apk_latest_version": 1,
-  "apk_version_name": "1.0 (1)",
-  "apk_apk_url": "https://github.com/Ronald-Roa/magia-releases/releases/download/magia-apk-v1.0/Magia.apk",
-  "apk_sha256": "",
-  "apk_size_bytes": 0,
-  "apk_changelog": "Build 1: versión inicial de Magia. Branding actualizado, protección por Machine ID."
+  "apk_latest_version": 43423,
+  "apk_version_name": "4.34.23",
+  "apk_sha256": "d5aa92aea7079271ce891cafdcdf21520735ddd2d0f0e1cac89d5baf75bcc2b1",
+  "apk_size_bytes": 35474112,
+  "apk_changelog": "Build 43423: reproducción VOD directa, catálogo completo y proxy Cast/DLNA.",
+  "apk_apk_url": "https://github.com/Ronald-Roa/magia-releases/releases/download/magia-apk-v4.34.23/Magia.apk"
 }
