@@ -1,8 +1,8 @@
 {
-  "apk_latest_version": 43423,
-  "apk_version_name": "4.34.23",
-  "apk_sha256": "d5aa92aea7079271ce891cafdcdf21520735ddd2d0f0e1cac89d5baf75bcc2b1",
+  "apk_latest_version": 43424,
+  "apk_version_name": "4.34.24",
+  "apk_sha256": "5ea0326b016d7df70ab6364aaf1716c0a795c030c9fa5ad966d6b90176ffab41",
   "apk_size_bytes": 35474112,
-  "apk_changelog": "Build 43423: reproducción VOD directa, catálogo completo y proxy Cast/DLNA.",
-  "apk_apk_url": "https://github.com/Ronald-Roa/magia-releases/releases/download/magia-apk-v4.34.23/Magia.apk"
+  "apk_changelog": "Corrección del aviso de actualización con sesión guardada; inicio rápido conservado.",
+  "apk_apk_url": "https://github.com/Ronald-Roa/magia-releases/releases/download/magia-apk-v4.34.24/Magia.apk"
 }
